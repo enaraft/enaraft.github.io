@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enaraft.github.io/sitemap.html.gz
+Sitemap: https://enaraft.github.io/app/sitemap.html.gz
+Sitemap: https://enaraft.github.io/assets/sitemap.html.gz
+Sitemap: https://enaraft.github.io/css/sitemap.html.gz
+Sitemap: https://enaraft.github.io/data/sitemap.html.gz
+Sitemap: https://enaraft.github.io/includes/sitemap.html.gz
+Sitemap: https://enaraft.github.io/item/sitemap.html.gz
+Sitemap: https://enaraft.github.io/src/sitemap.html.gz
